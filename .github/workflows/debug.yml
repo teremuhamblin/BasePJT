@@ -1,0 +1,19 @@
+name: DEBUG
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Show tree
+        run: ls -R .
+
+      - name: Show run.sh content
+        run: cat scripts/run.sh
+
+      - name: Show permissions
+        run: ls -l scripts/
