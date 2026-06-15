@@ -1,4 +1,5 @@
-###### README.md >> markdown 
+###### README.md >> markdown
+[![DEBUG](https://github.com/teremuhamblin/BasePJT/actions/workflows/debug.yml/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/debug.yml)
 # 🟩 BasePJT
 > Projet minimal conçu pour servir de squelette à n'importe quel dépôt GitHub.
 
