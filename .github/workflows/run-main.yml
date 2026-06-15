@@ -18,8 +18,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Make run.sh executable
+      - name: Show repository tree (debug)
+        run: ls -R .
+
+      - name: Fix permissions
         run: chmod +x scripts/run.sh
 
-      - name: Execute project
+      - name: Run project
         run: bash scripts/run.sh
