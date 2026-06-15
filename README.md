@@ -1,2 +1,37 @@
-# BasePJT
-Exemple pour construire un projet de base simple.
+###### README.md >> markdown 
+# 🟩 BasePJT
+> Projet minimal conçu pour servir de squelette à n'importe quel dépôt GitHub.
+
+### 📦 Structure
+- src/ : code source principal
+- scripts/ : scripts utilitaires
+- docs/ : documentation technique
+
+### 🟦 Projet de base
+- (structure + fichiers prêts)
+```text
+BasePJT/
+├── src/
+│   └── main.py
+├── scripts/
+│   └── run.sh
+├── docs/
+│   └── readme-technique.md
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+### 🚀 Exécution
+```bash
+bash scripts/run.sh
+```
+
+### 🧩 Objectif
+Fournir une base propre, simple et extensible pour démarrer rapidement un projet.
+
+### 📄 Licence
+Voir fichier LICENSE.
+`
+
+---
