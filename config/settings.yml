@@ -1,0 +1,13 @@
+# Configuration principale du projet BasePJT
+project:
+  name: BasePJT
+  version: "1.0.0"
+  mode: production
+
+logging:
+  level: INFO
+  file: logs/basepjt.log
+
+network:
+  timeout: 30
+  retries: 3
