@@ -8,8 +8,9 @@
 - src/ : code source principal
 - scripts/ : scripts utilitaires
 - docs/ : documentation technique
-- tests/ :
-- 
+- tests/ : dossier de test du projet
+- config/ : dossier de configurations 
+- pytest.py : lancement du projet
 
 ### 🟦 Projet de base
 - (structure + fichiers prêts)
@@ -17,8 +18,8 @@
 BasePJT/
 ├── tests/
 │   └── .gitkeep
-├── /
-│   └── readme-technique.md
+├── config/
+│   └── .gitkeep
 ├── src/
 │   └── main.py
 ├── scripts/
@@ -27,6 +28,7 @@ BasePJT/
 │   └── readme-technique.md
 ├── .gitignore
 ├── LICENSE
+├── pytest.py
 └── README.md
 ```
 
