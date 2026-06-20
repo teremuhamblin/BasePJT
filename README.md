@@ -10,7 +10,7 @@
 - docs/ : documentation technique
 - tests/ : dossier de test du projet
 - config/ : dossier de configurations 
-- pytest.py : lancement du projet
+- pytest.sh : lancement du projet
 
 ### 🟦 Projet de base
 - (structure + fichiers prêts)
@@ -28,7 +28,7 @@ BasePJT/
 │   └── readme-technique.md
 ├── .gitignore
 ├── LICENSE
-├── pytest.py
+├── pytest.sh
 └── README.md
 ```
 
