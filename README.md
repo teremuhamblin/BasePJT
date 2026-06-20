@@ -8,11 +8,17 @@
 - src/ : code source principal
 - scripts/ : scripts utilitaires
 - docs/ : documentation technique
+- tests/ :
+- 
 
 ### 🟦 Projet de base
 - (structure + fichiers prêts)
 ```text
 BasePJT/
+├── tests/
+│   └── .gitkeep
+├── /
+│   └── readme-technique.md
 ├── src/
 │   └── main.py
 ├── scripts/
