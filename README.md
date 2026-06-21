@@ -34,6 +34,9 @@ BasePJT/
 
 ### 🚀 Exécution
 ```bash
+bash pytest.sh
+```
+```bash
 bash scripts/run.sh
 ```
 
