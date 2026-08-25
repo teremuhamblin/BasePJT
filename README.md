@@ -47,6 +47,8 @@ bash pytest.sh
 bash scripts/run.sh
 ```
 
+[![Publish Python Package](https://github.com/teremuhamblin/BasePJT/actions/workflows/publish.yml/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/publish.yml)
+
 ### 🧩 Objectif
 Fournir une base propre, simple et extensible pour démarrer rapidement un projet.
 
