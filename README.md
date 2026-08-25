@@ -39,6 +39,8 @@ BasePJT/BasePJT/
 └── README.md
 ```
 
+[![pages-build-deployment](https://github.com/teremuhamblin/BasePJT/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/pages/pages-build-deployment)
+
 ### 🚀 Exécution
 ```bash
 bash pytest.sh
