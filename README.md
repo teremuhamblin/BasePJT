@@ -15,7 +15,14 @@
 ### 🟦 Projet de base
 - (structure + fichiers prêts)
 ```text
-BasePJT/
+BasePJT/BasePJT/
+├─ apps/
+│  ├─ __init__.py
+│  ├─ models.py
+│  ├─ services.py
+│  ├─ cli.py
+│  ├─ main.py
+├─ README.md
 ├── tests/
 │   └── .gitkeep
 ├── config/
