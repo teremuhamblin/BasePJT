@@ -1,9 +1,14 @@
 ###### README.md >> markdown
+
 [![DEBUG](https://github.com/teremuhamblin/BasePJT/actions/workflows/debug.yml/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/debug.yml)
+
 # 🟩 BasePJT
 > Projet minimal conçu pour servir de squelette à n'importe quel dépôt GitHub.
 
 ### 📦 Structure
+
+[![Dependency Graph](https://github.com/teremuhamblin/BasePJT/actions/workflows/dependabot/update-graph/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/dependabot/update-graph)
+
 - src/ : code source principal
 - scripts/ : scripts utilitaires
 - docs/ : documentation technique
@@ -14,7 +19,7 @@
 ### 🟦 Projet de base
 - (structure + fichiers prêts)
 ```text
-BasePJT/BasePJT/
+BasePJT/
 ├─ apps/
 │  ├─ __init__.py
 │  ├─ models.py
@@ -36,7 +41,7 @@ BasePJT/BasePJT/
 ├── LICENSE
 ├── pytest.sh
 ├── pyproject.toml 
-└── README.md
+└── .gitkeep
 ```
 
 [![pages-build-deployment](https://github.com/teremuhamblin/BasePJT/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/teremuhamblin/BasePJT/actions/workflows/pages/pages-build-deployment)
