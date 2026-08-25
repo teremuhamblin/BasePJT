@@ -1,7 +1,7 @@
 """
 LegionOps Tracker
 -----------------
-Module fictif pour le projet BasePJT.
+Module pour le projet BasePJT.
 
 Ce package fournit :
 - Les modèles (Operator, Mission)
@@ -22,3 +22,5 @@ __all__ = [
     "MissionService",
     "run_cli"
 ]
+
+__version__ = "0.1.0"
